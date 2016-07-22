@@ -1,6 +1,9 @@
 // JavaScript Document
 function thounsands_separators(a)
 {
+
+hello and hello,hello to meet you
+
    num+='';
   var y=num.indexOf('.'); 
   m=Math.floor(num);
